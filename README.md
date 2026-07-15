@@ -1,2 +1,2 @@
-# Pol-ticas-DLP
+# Politicas-DLP
 Implementación de Políticas DLP a dispositivos de almacenamiento externo
